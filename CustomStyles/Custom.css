@@ -1,0 +1,19 @@
+.indented_1{
+    margin-left: 1rem;
+}
+.indented_2{
+    margin-left: 2rem;
+}
+.indented_3{
+    margin-left: 3rem;
+}
+.indented_4{
+    margin-left: 4rem;
+}
+.indented_5{
+    margin-left: 5rem;
+}
+
+pre > .buttons button{
+    display: none !important;
+}
