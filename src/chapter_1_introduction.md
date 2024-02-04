@@ -1,5 +1,5 @@
-# Learn French grammer with English
-## ~~ on going project ~~
+# French grammar with English
+## ~~ ongoing project ~~
 I have created the document while learning, please let me know if you feel something is wrong or not mentioned properly.
 
 ### Merci
@@ -14,7 +14,7 @@ I have created the document while learning, please let me know if you feel somet
 
 # Topics
 
-- [Les accents et la poncutation (The Accents and punctuation)](./chapter_2_accentAndPunctuation.md)
+- [Les accents et la punctuation (The Accents and punctuation)](./chapter_2_accentAndPunctuation.md)
 
 ### Les article (the Articles)
   - [L'article défini (The definite article)](chapter_3.1_articlesDefinite.md)
